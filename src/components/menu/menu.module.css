@@ -1,0 +1,22 @@
+.menu{
+    position: absolute;
+    margin-top: -55%;
+    margin-left:0%;
+    width: 20%;
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    padding: 5%;
+    width: 50%;
+}
+a:hover{
+    color: gray;
+}
+.links{
+    display:inline;
+    justify-content: center;
+    align-items: center;
+    width: 96%;
+}
